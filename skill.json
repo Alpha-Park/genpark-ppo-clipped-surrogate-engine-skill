@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ppo-clipped-surrogate-engine-skill",
+  "version": "1.0.0",
+  "description": "Proximal Policy Optimization (PPO) clipped surrogate objective engine maintaining stable trust-region policy updates and bounding gradient divergence.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "reinforcement-learning",
+    "ppo",
+    "policy-gradient",
+    "actor-critic"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
